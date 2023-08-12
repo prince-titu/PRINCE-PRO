@@ -1,0 +1,2 @@
+import apt
+apt.ptbuy()
